@@ -1,2 +1,2 @@
-# Human-Monkey-Pox-classification-
+# Human-Monkey-Pox-classification
 Deep Learning Project
