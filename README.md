@@ -8,7 +8,8 @@ The project trained multiple models on the human monkey-pox dataset. Model resul
 Here is an example snippet of the output:
 
 
-![app4](https://github.com/Divarshana-Saxena/Human-Monkey-Pox-classification-/assets/140905073/54a2b245-6cae-4e29-ad54-6d6ab94da027)
+
+![app4 (1)](https://github.com/Divarshana-Saxena/Human-Monkey-Pox-classification-/assets/140905073/9cba6ca3-c68e-4b44-a139-5064e91a2059)
 
 
 
