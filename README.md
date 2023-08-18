@@ -9,8 +9,5 @@ Here is an example snippet of the output:
 
 
 
-![app4 (1)](https://github.com/Divarshana-Saxena/Human-Monkey-Pox-classification-/assets/140905073/9cba6ca3-c68e-4b44-a139-5064e91a2059)
+![app4 (1)](https://github.com/Divarshana-Saxena/Human-Monkey-Pox-classification-/assets/140905073/9cba6ca3-c68e-4b44-a139-5064e91a2059)  ![Output2 2](https://github.com/Divarshana-Saxena/Human-Monkey-Pox-classification-/assets/140905073/0a607598-b0ee-47ba-890f-6a7ec7f1693b)
 
-
-
-![Output2 2](https://github.com/Divarshana-Saxena/Human-Monkey-Pox-classification-/assets/140905073/052c8970-f30a-4771-ad64-6913a7c84a36)
