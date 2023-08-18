@@ -13,3 +13,4 @@ Here is an example snippet of the output:
 
 
 
+![Output2 2](https://github.com/Divarshana-Saxena/Human-Monkey-Pox-classification-/assets/140905073/052c8970-f30a-4771-ad64-6913a7c84a36)
