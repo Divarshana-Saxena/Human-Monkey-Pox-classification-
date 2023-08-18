@@ -16,8 +16,7 @@ Steps to execute the project:
 
 1. Build and Run the Application code on ide.
 
-2. Use the following Hierarchical Data Formats (HDF) file
+2. Use the following Hierarchical Data Formats (HDF) file.
 
 
 https://drive.google.com/file/d/1AlrZJwRYPPbBGBkU7t5BTYI0aR6Fn4H9/view?usp=sharing
---
